@@ -1,0 +1,8 @@
+*.xml
+*.png
+*.avi
+.DS_Store
+build/
+data/*
+!data/.gitkeep
+
